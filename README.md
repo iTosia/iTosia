@@ -1,18 +1,26 @@
 # FrontEnd Developer
 
-## Some of my projects
+## VueJS projects
 
+- https://itosia.github.io/covid-tracker/
+- https://itosia.github.io/weather-app/
+
+## Some of my projects and ready-made test tasks
+
+- https://itosia.github.io/bestrest/
+- https://itosia.github.io/parimatch/
+- https://itosia.github.io/pwa/
+- https://itosia.github.io/todo-app/
+- https://itosia.github.io/music-app/
 - https://itosia.github.io/BEM-landing/
 - https://itosia.github.io/gta_sa_treasure_map/
 - https://itosia.github.io/joker_promo/
 - https://itosia.github.io/iMood/
 - https://itosia.github.io/something_as_a_service/
 - https://itosia.github.io/responsive_one_slide_page/
-- https://itosia.github.io/responsive_website_1/
 - https://itosia.github.io/responsive_website_2/
 - https://itosia.github.io/delivery_food/
 - https://itosia.github.io/online_delivery_food/
-- https://itosia.github.io/social_page/
 - https://itosia.github.io/ghostbusters_promo/
 - https://itosia.github.io/slider-effect/
 - https://itosia.github.io/cards-gallery/
@@ -25,6 +33,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=E9D54D)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss&logoColor=E9D54D)
+![B](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=E9D54D)
+![T](https://img.shields.io/badge/-tailwind-090909?style=for-the-badge&logo=tailwind&logoColor=E9D54D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=0065AB)
 ![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=vuejs&logoColor=E9D54D)
