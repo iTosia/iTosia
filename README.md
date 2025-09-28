@@ -1,50 +1,11 @@
 # FrontEnd Developer
 
-## VueJS projects
-
-- https://itosia.github.io/covid-tracker/
-- https://itosia.github.io/weather-app/
-
-## Some of my projects and ready-made test tasks
-
-- https://itosia.github.io/bestrest/
-- https://itosia.github.io/parimatch/
-- https://itosia.github.io/pwa/
-- https://itosia.github.io/todo-app/
-- https://itosia.github.io/music-app/
-- https://itosia.github.io/BEM-landing/
-- https://itosia.github.io/gta_sa_treasure_map/
-- https://itosia.github.io/joker_promo/
-- https://itosia.github.io/iMood/
-- https://itosia.github.io/something_as_a_service/
-- https://itosia.github.io/responsive_one_slide_page/
-- https://itosia.github.io/responsive_website_2/
-- https://itosia.github.io/delivery_food/
-- https://itosia.github.io/online_delivery_food/
-- https://itosia.github.io/ghostbusters_promo/
-- https://itosia.github.io/slider-effect/
-- https://itosia.github.io/cards-gallery/
-- https://itosia.github.io/aim-game/
-- https://itosia.github.io/drag-n-drop/
-- https://itosia.github.io/hover-board/
-
 ## Languages and Tools
 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=E9D54D)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=E9D54D)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss&logoColor=E9D54D)
-![B](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=E9D54D)
-![T](https://img.shields.io/badge/-tailwind-090909?style=for-the-badge&logo=tailwind&logoColor=E9D54D)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=0065AB)
-![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=vuejs&logoColor=E9D54D)
-![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor=E94E31)
-![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop&logoColor=E9D54D)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=E9D54D)
-![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2580F7)
+[![My Skills](https://skillicons.dev/icons?i=vuejs,react,nodejs,js,jest,jquery,html,css,scss,bootstrap,tailwind,git,github,figma,photoshop)](https://skillicons.dev)
 
 ## Contacts
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D1%83%D0%B9%D0%BA%D0%BE-905905160/)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=D24C41)](anatosiy.8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatosiy-905905160) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iTosia) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](anatosiy.8@gmail.com)
