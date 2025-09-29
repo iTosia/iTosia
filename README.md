@@ -1,7 +1,7 @@
 # Hello 👋
 
 I am an experienced front-end developer who creates modern and user-friendly web applications based on **React.js, Vue.js, and Node.js**.
-At the same time, I actively **study and practise the application of artificial intelligence**: I integrate **ChatGPT, Whisper, DALL·E**, develop bots, and experiment with AI assistants.
+At the same time, I actively **study and practise the application of artificial intelligence**, develop bots, and experiment with AI assistants.
 
 
 ## 🛠️ My stack
