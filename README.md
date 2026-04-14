@@ -9,6 +9,8 @@ At the same time, I actively **study and practise the application of artificial 
 
 ## 💡 My projects
 - [Mini-game in GTA San Andreas style](https://itosia.github.io/treasure-hunt/)
+- [Mini-game with horse racing](https://itosia.github.io/horse-game/)
+- [Football match center](https://football-match-center-blue.vercel.app/)
 
 
 ## 📫 Contacts
