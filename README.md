@@ -8,7 +8,7 @@ At the same time, I actively **study and practise the application of artificial 
 [![My Skills](https://skillicons.dev/icons?i=js,vuejs,react,nodejs,jest,jquery,html,css,scss,bootstrap,tailwind,git,github,figma,photoshop)](https://skillicons.dev)
 
 ## 💡 My projects
-- [Mini-game in GTA San Andreas style](https://itosia.github.io/treasure-hunt/)
+- [Mini-game in GTA San Andreas style]((https://treasure-game-sand.vercel.app/))
 - [Mini-game with horse racing](https://itosia.github.io/horse-game/)
 - [Football match center](https://football-match-center-blue.vercel.app/)
 
