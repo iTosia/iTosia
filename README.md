@@ -7,6 +7,9 @@ At the same time, I actively **study and practise the application of artificial 
 ## 🛠️ My stack
 [![My Skills](https://skillicons.dev/icons?i=js,vuejs,react,nodejs,jest,jquery,html,css,scss,bootstrap,tailwind,git,github,figma,photoshop)](https://skillicons.dev)
 
+## 💡 My projects
+- [Mini-game in GTA San Andreas style](https://itosia.github.io/treasure-hunt/)
+
 
 ## 📫 Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatosiy-905905160) 
