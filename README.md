@@ -1,13 +1,13 @@
 # Hello 👋
 
 I am an experienced web developer who creates modern, scalable, user-friendly web applications with a focus on:
-• Performance
-• Accessibility
-• Reusable architecture
-• Clean code
-• Developer experience
-• Modern UI/UX
-• AI integration
+- Performance
+- Accessibility
+- Reusable architecture
+- Clean code
+- Developer experience
+- Modern UI/UX
+- AI integration
 
 ## 💡 My projects
 - Mini-game in GTA San Andreas style - https://treasure-game-sand.vercel.app/
