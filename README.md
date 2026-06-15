@@ -4,9 +4,9 @@ I am an experienced front-end developer who creates modern and user-friendly web
 At the same time, I actively **study and practise the application of artificial intelligence**, develop bots, and experiment with AI assistants.
 
 ## 💡 My projects
-- [Mini-game in GTA San Andreas style](https://treasure-game-sand.vercel.app/)
-- [Mini-game with horse racing](https://itosia.github.io/horse-game/)
-- [Football match center](https://football-match-center-blue.vercel.app/)
+- Mini-game in GTA San Andreas style - https://treasure-game-sand.vercel.app/
+- Mini-game with horse racing - https://itosia.github.io/horse-game/
+- Football match center - https://football-match-center-blue.vercel.app/
 
 ## 🛠️ My stack
 [![My Skills](https://skillicons.dev/icons?i=js,vuejs,react,nodejs,jest,jquery,html,css,scss,bootstrap,tailwind,git,github,figma,photoshop)](https://skillicons.dev)
@@ -14,6 +14,3 @@ At the same time, I actively **study and practise the application of artificial 
 ## 📫 Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatosiy-905905160) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](href="anatosiy.8@gmail.com")
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iTosia)](https://github.com/anuraghazra/github-readme-stats)
