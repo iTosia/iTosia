@@ -1,15 +1,15 @@
 # Hello 👋
 
 I am an experienced front-end developer who creates modern and user-friendly web applications based on **React.js, Vue.js, and Node.js**.
-At the same time, I actively **study and practise the application of artificial intelligence**, develop bots, and experiment with AI assistants.
+I actively **study and practise the application of artificial intelligence**, develop bots, and experiment with AI assistants.
 
 ## 💡 My projects
 - Mini-game in GTA San Andreas style - https://treasure-game-sand.vercel.app/
 - Mini-game with horse racing - https://itosia.github.io/horse-game/
 - Football match center - https://football-match-center-blue.vercel.app/
 
-## 🛠️ My stack
-[![My Skills](https://skillicons.dev/icons?i=js,vuejs,react,nodejs,jest,jquery,html,css,scss,bootstrap,tailwind,git,github,figma,photoshop)](https://skillicons.dev)
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,vuejs,react,nextjs,nodejs,jest,jquery,html,css,scss,bootstrap,tailwind,git,github,figma,photoshop)](https://skillicons.dev)
 
 ## 📫 Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatosiy-905905160) 
