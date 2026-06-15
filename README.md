@@ -15,6 +15,7 @@ I am an experienced web developer who creates modern, scalable, user-friendly we
 - Football match center - https://football-match-center-blue.vercel.app/
 
 ## 🛠️ Tech Stack
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![My Skills](https://skillicons.dev/icons?i=js,vuejs,react,nextjs,nodejs,jest,jquery,html,css,scss,bootstrap,tailwind,git,github,figma,photoshop)](https://skillicons.dev)
 
 ## 📫 Contacts
