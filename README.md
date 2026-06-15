@@ -36,4 +36,4 @@ I am an experienced web developer who creates modern, scalable, user-friendly we
 
 ## 📫 Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatosiy-905905160) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](href="anatosiy.8@gmail.com")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
