@@ -32,9 +32,6 @@ I am an experienced web developer who creates modern, scalable, user-friendly we
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=js,vuejs,react,nextjs,nodejs,jest,jquery,html,css,scss,bootstrap,tailwind,git,github,figma,photoshop)](https://skillicons.dev)
-
-
 
 ## 📫 Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatosiy-905905160) 
