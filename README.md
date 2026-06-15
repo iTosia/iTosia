@@ -1,7 +1,13 @@
 # Hello 👋
 
-I am an experienced front-end developer who creates modern and user-friendly web applications based on **React.js, Vue.js, and Node.js**.
-I actively **study and practise the application of artificial intelligence**, develop bots, and experiment with AI assistants.
+I am an experienced web developer who creates modern, scalable, user-friendly web applications with a focus on:
+• Performance
+• Accessibility
+• Reusable architecture
+• Clean code
+• Developer experience
+• Modern UI/UX
+• AI integration
 
 ## 💡 My projects
 - Mini-game in GTA San Andreas style - https://treasure-game-sand.vercel.app/
