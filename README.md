@@ -10,6 +10,7 @@ I am an experienced web developer who creates modern, scalable, user-friendly we
 - AI integration
 
 ## 💡 My projects
+- Modern application on Next.js 15 for searching recipes - https://recipe-explorer-sigma-black.vercel.app/
 - Mini-game in GTA San Andreas style - https://treasure-game-sand.vercel.app/
 - Mini-game with horse racing - https://itosia.github.io/horse-game/
 - Football match center - https://football-match-center-blue.vercel.app/
